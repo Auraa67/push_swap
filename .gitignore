@@ -1,0 +1,17 @@
+# Object files
+*.o
+
+# Binary
+push_swap
+
+# Dependencies
+*.d
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# OS files
+.DS_Store
