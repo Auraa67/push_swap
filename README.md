@@ -3,7 +3,6 @@
 A sorting algorithm project that sorts a stack of integers using a limited set of operations with the minimum number of moves.
 
 ## Table of Contents
-- [Description](#description)
 - [Algorithm Overview](#algorithm-overview)
 - [Operations](#operations)
 - [Installation](#installation)
@@ -11,12 +10,6 @@ A sorting algorithm project that sorts a stack of integers using a limited set o
 - [Project Structure](#project-structure)
 - [Examples](#examples)
 - [Author](#author)
-
-## Description
-
-Push_swap is a 42 school project that challenges students to sort a stack of integers using two stacks (stack A and stack B) and a specific set of operations. The goal is to sort the integers in ascending order in stack A using the minimum number of operations possible.
-
-The program receives a list of integers as arguments and outputs the sequence of operations needed to sort them. The algorithm is optimized to minimize the number of operations required.
 
 ## Algorithm Overview
 
@@ -209,12 +202,3 @@ The program handles various error cases:
 - Multiple signs (++ or --)
 
 In case of error, the program prints `Error` to stderr and exits.
-
-## Author
-
-**merazafi**
-- Email: merazafi@student.42antananari
-
-## License
-
-This project is part of the 42 school curriculum.
