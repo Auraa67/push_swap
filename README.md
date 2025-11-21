@@ -9,7 +9,6 @@ A sorting algorithm project that sorts a stack of integers using a limited set o
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Examples](#examples)
-- [Author](#author)
 
 ## Algorithm Overview
 
